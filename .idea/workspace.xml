@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120da2f8-8e41-4e29-a160-f1d3e1201dee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/src/main/java/com/tuling/springboot/base/SampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/src/main/java/com/tuling/springboot/base/SpringBootStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vip-springboot-base/src/test/java/com/tuling/springboot/base/test/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vip-springboot-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vip-springboot-base/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/vip-springboot-base/target/" />
@@ -227,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1622515865112</updated>
       <workItem from="1622515868276" duration="890000" />
-      <workItem from="1622531478294" duration="1287000" />
+      <workItem from="1622531478294" duration="1785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2177000" />
+    <option name="totallyTimeSpent" value="2675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
