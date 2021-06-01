@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cloud.altemista.fwk.mail:cloud-altemistafwk-core-mail-javamail-conf:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/altemista/fwk/mail/cloud-altemistafwk-core-mail-javamail-conf/unknown/cloud-altemistafwk-core-mail-javamail-conf-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/altemista/fwk/mail/cloud-altemistafwk-core-mail-javamail-conf/unknown/cloud-altemistafwk-core-mail-javamail-conf-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cloud/altemista/fwk/mail/cloud-altemistafwk-core-mail-javamail-conf/unknown/cloud-altemistafwk-core-mail-javamail-conf-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
